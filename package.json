@@ -1,0 +1,19 @@
+{
+  "name": "ecommecerBackend",
+  "version": "1.0.0",
+  "description": "firts database using sql as main source",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "env": "0.0.2",
+    "express": "^4.17.1",
+    "knex": "^0.95.14",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1"
+  }
+}
